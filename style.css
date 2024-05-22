@@ -1,0 +1,26 @@
+h1 {
+    color:brown
+}
+h2{
+    color: red
+}
+body{
+    background-color: #BAA9A5; 
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    text-align: center;
+
+}
+header {
+    border-bottom: 1px solid gray;
+}
+footer {
+    border-top: 1px solid grey;
+}
+#nome-usuário {
+    font-weight: bold;
+}
+
+.texto-turma{
+    font-style :italic;
+}
